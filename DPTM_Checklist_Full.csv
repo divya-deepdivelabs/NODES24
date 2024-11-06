@@ -1,0 +1,159 @@
+,Category,Title,Description,Policy Type,Policy Documents
+1,Governance and Transparency,Establish data protection policies and practices,"Organisation shall have data protection policies and practices approved by
+management, setting out the organisation’s approach to managing
+personal data (include management of special categories of personal data
+such as personal data of a sensitive nature) for Employees via Internal data protection policy and notice",Internal,
+2,Governance and Transparency,Establish data protection policies and practices,"Organisation shall have data protection policies and practices approved by
+management, setting out the organisation’s approach to managing
+personal data (include management of special categories of personal data
+such as personal data of a sensitive nature) for  Customers, Job applicants, visitors etc via External data protection
+notices",External,
+3,Governance and Transparency,Establish data protection policies and practices,"Organisation shall have data protection policies and practices approved by
+management, setting out the organisation’s approach to managing
+personal data (include management of special categories of personal data
+such as personal data of a sensitive nature)  for Third party vendors via Third party agreement for management of the organisation’s personal data",Internal,
+4,Governance and Transparency,Establish data protection policies and practices,"Organisation shall publish and communicate the data protection policies
+to Customers via Privacy notice on the organisation’s website,
+service/product sign-up form or other forms",External,
+5,Governance and Transparency,Establish data protection policies and practices,"Organisation shall publish and communicate the data protection policies to Employees via Data protection notice on employment form, data protection policy signed by employees, regular staff meeting or other forms",Internal,
+6,Governance and Transparency,Establish data protection policies and practices,"Organisation shall publish and communicate the data protection policies to Job applicants via  Privacy notice on the organisation’s website, Job
+Application Form/Job portal or other forms",External,
+7,Governance and Transparency,Establish data protection policies and practices,Organisation shall publish and communicate the data protection policies to Vendors via Third party agreements or other forms,Internal + External,
+8,Governance and Transparency,Establish data protection policies and practices,"Organisation shall have documented policies and processes to review,
+update and monitor compliance of data protection policies and practices,
+such as Process to review data protection policies periodically and obtain
+management approval for any policy revisions",Internal,
+9,Governance and Transparency,Establish data protection policies and practices,"Organisation shall have documented policies and processes to review,
+update and monitor compliance of data protection policies and practices,
+such as Process to monitor internal parties’ (i.e. employees) compliance with
+the data protection policies and practices",Internal,
+10,Governance and Transparency,Establish data protection policies and practices,"Organisation shall have documented policies and processes to review,
+update and monitor compliance of data protection policies and practices,
+such as Process to monitor external parties’ compliance with the data
+protection policies and practices",External,
+11,Governance and Transparency,"Establish queries, complaints and dispute resolution handling processes","The organisation shall have documented policies and processes on how it
+receives and responds to queries/complaints on the collection, use and disclosure of personal data",External + Internal,
+12,Governance and Transparency,"Establish queries, complaints and dispute resolution handling processes","The organisation shall have documented policies and processes on how it
+receives and responds to queries/complaints on the collection, use and disclosure of personal data, such as mechanisms on how the individual (e.g. employees, job applicants,
+customers etc) may submit queries/complaints (e.g. electronic or non-
+electronic means) to the organisation",External + Internal,
+13,Governance and Transparency,"Establish processes to identify, assess and address data protection","The organisation shall have documented policies and processes on how it
+performs risk and impact assessments (e.g. Data Protection Impact
+Assessment) on its operational functions, business needs and processes
+which involve personal data.",Internal,
+14,Governance and Transparency,"Establish processes to identify, assess and address data protection","The organisation shall document the DPIA conducted and ensure
+appropriate action plans that are endorsed by management are
+implemented to address the identified data protection risks.",Internal,
+15,Governance and Transparency,"Establish processes to identify, assess and address data protection","The organisation shall demonstrate Data Protection by Design through
+documented process and/or other evidence that data protection
+measures are considered and built into the systems and/or components
+that involve the processing of personal data as they are being developed",Internal,
+16,Governance and Transparency,Establish a data breach management plan,"The organisation shall establish a data breach management plan and
+communicate it to relevant employees and external stakeholders. The
+data breach management plan that includes Roles and responsibilities of data breach management team",Internal + External,
+17,Governance and Transparency,Establish a data breach management plan,"The organisation shall establish a data breach management plan and
+communicate it to relevant employees and external stakeholders. The
+data breach management plan that includes Timeline for reporting data breach incidents",Internal + External,
+18,Governance and Transparency,Establish a data breach management plan,"The organisation shall establish a data breach management plan and
+communicate it to relevant employees and external stakeholders. The
+data breach management plan that includes processes for notifying affected individuals/organizations and relevant regulators/enforcement authorities",Internal + External,
+19,Governance and Transparency,Establish a data breach management plan,"The organisation shall establish a data breach management plan and
+communicate it to relevant employees and external stakeholders. The
+data breach management plan that includes Processes for third parties to notify organisation in the event of a
+data breach",Internal + External,
+20,Governance and Transparency,Establish a data breach management plan,"The organisation shall establish a data breach management plan and
+communicate it to relevant employees and external stakeholders. The
+data breach management plan that includes Drawer plans for likely data breach scenarios to better help
+organisation manage and respond in the event of a data breach",Internal + External,
+21,Governance and Transparency,Accountability,"The organisation shall appoint a competent DPO (e.g. received formal
+training) responsible for the organisation’s data protection regime and
+compliance with the PDPA.",Internal,
+22,Governance and Transparency,Accountability,"The DPO shall have defined roles and responsibilities, with his contact
+information easily accessible (e.g. privacy notice on organisation’s
+website) to facilitate queries.",External,
+23,Governance and Transparency,Internal Communication and Training,"The organisation shall put in place training programmes and/or other
+measures to ensure all staff (e.g. employees, new hires, contract staff, etc)
+are aware of the organisation’s data protection obligations.",Internal,
+24,Management of Personal Data,Appropriate Purpose,"The organisation shall have documented policies and processes to ensure
+personal data collected (directly or through a third party) is relevant and
+reasonable for the identified purposes and individuals are notified of the
+purposes on or before the collection of their personal data.",External,
+25,Management of Personal Data,Appropriate Consent,"The organisation shall have clear and accessible notifications on the
+purpose on or before the collection of personal data through mechanisms
+such as Data Protection Notice on the website, employee notice etc.",Internal + External,
+26,Management of Personal Data,Appropriate Consent,"The organisation shall have processes in place to obtain fresh consent from
+individuals to use or disclose their personal data for new purpose(s).",Internal + External,
+27,Management of Personal Data,Appropriate Use and Disclosure,"The organisation shall have documented policies and processes on obtaining consent from the individuals on the collection, use or
+disclosure of their personal data",Internal + External,
+28,Management of Personal Data,Appropriate Use and Disclosure,"The organisation shall have documented policies and processes on collection, use and disclosure of personal data of the individuals
+without consent (i.e. organisation relies on Exceptions to the
+Consent Obligation)",Internal + External,
+29,Management of Personal Data,Appropriate Use and Disclosure,The organisation shall have documented policies and processes on obtaining valid consent of the individuals from third parties’ sources,Internal + External,
+30,Management of Personal Data,Appropriate Use and Disclosure,"The organisation shall maintain a Data Inventory Map to document and
+track personal data flows in the organisation, to ensure personal data is
+used and disclosed in accordance with the purposes stated in the
+notifications and consented by the individuals at the point of collection.",Internal + External,
+31,Management of Personal Data,Compliant Overseas Transfer,"The organisation shall establish processes to assess and ensure that the
+personal data that is transferred overseas is accorded a standard of
+protection that is comparable to that under the PDPA.",Internal + External,
+32,Management of Personal Data,Compliant Overseas Transfer,"If the organisation engages a third party to transfer personal data
+overseas, a contract shall be established, including appropriate measures
+to ensure compliance with the Transfer Limitation Obligation.",Internal + External,
+33,Care of Personal Data,Appropriate Protection,"The organisation shall document and implement appropriate protection
+measures to prevent unauthorised access, collection and use of its
+personal data in its possession or under its control, which may include establishing an information security policy",Internal + External,
+34,Care of Personal Data,Appropriate Protection,"The organisation shall document and implement appropriate protection
+measures to prevent unauthorised access, collection and use of its
+personal data in its possession or under its control, which may include implementing appropriate administrative, technical and physical
+safeguards, based on relevant risk assessments, probability and
+severity of the identified threats and the sensitivity of the
+information",,
+35,Care of Personal Data,Appropriate Protection,"The organisation shall document and implement appropriate protection
+measures to prevent unauthorised access, collection and use of its
+personal data in its possession or under its control, which may include establishing processes to ensure security measures are regularly
+tested for effectiveness e.g. vulnerability assessment, penetration
+tests etc, updated and communicated to relevant stakeholders",,
+36,Care of Personal Data,Appropriate Protection,"The organisation shall document and implement appropriate protection
+measures to prevent unauthorised access, collection and use of its
+personal data in its possession or under its control, which may include establishing contractual agreements with third parties to whom
+personal data is transferred to, to ensure reasonable security
+arrangements to protect personal data are in place",,
+37,Care of Personal Data,Appropriate Retention and Disposal,"The organisation shall have a data retention policy and retention schedules
+for all personal data in its possession.",,
+38,Care of Personal Data,Appropriate Retention and Disposal,"The organisation shall implement processes to communicate the data
+retention policy to all stakeholders and upon request by any stakeholders.",,
+39,Care of Personal Data,Appropriate Retention and Disposal,"The organisation shall have documented policies and processes on how it
+ceases to retain unsolicited personal data.",,
+40,Care of Personal Data,Appropriate Retention and Disposal,"The organisation shall have documented policies, processes and
+mechanisms for the disposal, destruction or anonymisation of all personal
+data held by the organisation and its third parties.",,
+41,Care of Personal Data,Appropriate Retention and Disposal,"The organisation shall implement measures (with appropriate contractual
+provisions) to ensure outsourcing of disposal, destruction or
+anonymisation of personal data by third party service providers is in
+accordance with data protection obligations.",,
+42,Care of Personal Data,Accurate and Complete Records,"The organisation shall have documented policies and processes to verify and ensure personal data under their possession is accurate
+and complete for the intended purposes of use or disclosure",,
+43,Care of Personal Data,Accurate and Complete Records,"The organisation shall have documented policies and processes on collection, use and disclosure of personal data of the individuals
+without consent (i.e. organisation relies on Exceptions to the
+Consent Obligation)",,
+44,Care of Personal Data,Accurate and Complete Records,"The organisation shall have documented policies and processes to communicate corrections to third parties (e.g. data intermediaries
+and/or other service providers) to whom the personal data was
+disclosed",,
+45,Individual’s Rights,Effect Withdrawal of Consent,"The organisation shall have documented policies and processes on how it
+handles requests for withdrawal of consent for collection, use and
+disclosure of personal data.",,
+46,Individual’s Rights,Effect Withdrawal of Consent,"The organisation shall provide information on how individuals may
+withdraw consent, the consequences of withdrawing the consent, and the
+mechanism by which to withdraw consent.",,
+47,Individual’s Rights,Provide Access and Correction Rights,"The organisation shall have documented policies and processes on how it
+handles and responds to access requests, including verifying the identity
+of requester, response time required and appeal process if access request
+is rejected.",,
+48,Individual’s Rights,Provide Access and Correction Rights,"The organisation shall provide information to individuals on the
+mechanism for access requests and keep records of all requests.",,
+49,Individual’s Rights,Provide Access and Correction Rights,"The organisation shall have documented policies and processes on how it
+handles and responds to correction requests, including verifying the
+identity of requester, response time required and appeal process if
+correction request is rejected.",,
+50,Individual’s Rights,Provide Access and Correction Rights,"The organisation shall provide information to individuals on the
+mechanism for correction request and keep records of all such requests.",,
